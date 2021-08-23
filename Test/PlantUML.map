@@ -2715,7 +2715,7 @@ Discarded input sections
  .data          0x0000000000000000        0x0 ./Tests/unit_test.o
  .bss           0x0000000000000000        0x0 ./Tests/unit_test.o
  .text.Start_UnitTest
-                0x0000000000000000       0x60 ./Tests/unit_test.o
+                0x0000000000000000       0x68 ./Tests/unit_test.o
  .text.test_SendEther_Buf
                 0x0000000000000000      0x112 ./Tests/unit_test.o
  .debug_info    0x0000000000000000      0x226 ./Tests/unit_test.o
@@ -2763,7 +2763,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x44 ./Tests/unit_test.o
  .debug_macro   0x0000000000000000      0x435 ./Tests/unit_test.o
  .debug_macro   0x0000000000000000       0x5e ./Tests/unit_test.o
- .debug_line    0x0000000000000000      0x75e ./Tests/unit_test.o
+ .debug_line    0x0000000000000000      0x761 ./Tests/unit_test.o
  .debug_str     0x0000000000000000    0x9a997 ./Tests/unit_test.o
  .comment       0x0000000000000000       0x54 ./Tests/unit_test.o
  .debug_frame   0x0000000000000000       0x54 ./Tests/unit_test.o

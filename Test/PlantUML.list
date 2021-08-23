@@ -360,8 +360,8 @@ int main(void)
  80002a8:	f000 f89e 	bl	80003e8 <MX_GPIO_Init>
   MX_USART2_UART_Init();
  80002ac:	f000 f86c 	bl	8000388 <MX_USART2_UART_Init>
-#ifdef UNIT_TEST
  ret= Start_UnitTest();
+ aa
 
 #else
   /* USER CODE END 2 */
